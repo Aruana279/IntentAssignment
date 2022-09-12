@@ -1,0 +1,47 @@
+[
+    {
+        "name": "Shymbulak",
+        "id": 1001,
+        "category": "Mountains",
+        "city": "Almaty",
+        "region": "Medeu Valley",
+        "isFeatured": true,
+        "isFavorite": false,
+        "coordinates": {
+            "longitude": 77.080833,
+            "latitude": 43.128056
+        },
+        "description": "Shymbulak (Kazakh: Şymbūlaq, Cyrillic: Шымбұлақ), is a ski resort near Almaty. It is the largest ski resort in Central Asia. It is located in the upper part of the Medeu Valley in the Zailiisky Alatau mountain range, at an elevation of 2,200 metres (7,200 ft) above sea level. The resort area is about 25 kilometres (16 mi) south of Almaty city by Medeo road. It is popular for its mild climate, large quantity of sunny days and great amount of snow through the winter. Shymbulak was discovered by amateur skiers in the 1940s. Soon after, it became the first downhill route in the Soviet Union. Skiers originally needed to climb up the mountain tops on foot (which took roughly 3 hours). In 1954 a 1500 meters ski tow was built. Starting from 1961, Shymbulak hosted several USSR Championships and the Silver Edelweisse prize skiing competitions. In 1983 it became the Olympic ski training center for the USSR. During this time, various commodities were built including restaurants and hotels.In 1985, after a thorough study of the conditions for competitions at Shymbulak, the International Ski Federation (FIS) approved three local tracks: Shymbulak-Talgar for downhill, Shymbulak for slalom and giant slalom.",
+        "imageName": "shymbulak"
+    },
+    {
+        "name": "Kok-Tobe",
+        "id": 1002,
+        "category": "Mountains",
+        "city": "Almaty",
+        "region": "Bostandik",
+        "isFeatured": false,
+        "isFavorite": false,
+        "coordinates": {
+            "longitude": 76.976111,
+            "latitude": 43.233056
+        },
+        "description": "Kök Töbe (Kazakh: Көктөбе or Blue Hill) is a mountain in Almaty, Kazakhstan's largest city. Kók Tóbe Park, a popular recreation area, is on top of the mountain. The mountain's height is 1100 meters above sea level. Kök Töbe is one of the main landmarks in the city, and it is popular among visitors and tourists to Almaty. Up until the 1960s, the Kök Töbe mountain was originally called Verigin. Before the Soviet Union, the hill was a favorite spot for the inhabitants of the city. During the Summer, the civilians organized May Day celebrations. At winter, it was a popular spot for skiing and sledding. Verny merchants called the mountain Blue Hill, a name believed to originate back to medieval times. During the 1960s, the Ministry of Communications of the Republic issued the initiative of constructing a television broadcasting tower that would reach the whole of Kazakhstan. In 1975, the design of a new Almaty TV tower began. The project involved building a broadcasting tower that would provide coverage throughout Kazakhstan as well as become a notable monument that would be visible throughout the whole of the city. Engineers chose the Verigina mountain (Kök Töbe) as its location on account of high altitude (1130 meters above sea level; ~200 meters above the city). The high altitude helped the tower provide better coverage throughout the area. When designing the tower, an agreement was concluded together with the Moscow Institute of Central Research Institute of Cryogenics. The architects chosen for the project were N.G. Terziev, A.N. Savchenko and N.K. Akimov. The construction budget was 600 million rubles. The funds were allocated by the State Planning Committee of the USSR.",
+        "imageName": "almatyTVtower"
+    },
+    {
+        "name": "Big Almaty Lake",
+        "id": 1003,
+        "category": "Lakes",
+        "city": "Almaty",
+        "region": "Alatau",
+        "isFeatured": false,
+        "isFavorite": true,
+        "coordinates": {
+            "longitude": 76.985,
+            "latitude": 43.0506
+        },
+        "description": "Big Almaty Lake (Kazakh: Үлкен Алматы көлі) is natural alpine reservoir. It is located in the Trans-Ili Alatau mountains, 15 km south from the center of Almaty in Kazakhstan. The lake is 2511 meters above sea level. The lake is made up of glacial water and is 1.6 km long, 1 km wide, and approximately 40m deep. Turist, a 3,681m high pyramid, is the crest of Bolshoi Almaty Peak and is visible from the city center. The domed Tien Shan Astronomical Observatory is located higher up above the chalice of the lake (which is open to the public and includes tourist accommodation). The lake's high altitude location keeps the area at cool temperatures throughout the year.[4] Depending on the time of year, the lake changes its color from light-green to turquoise-blue.",
+        "imageName": "bigLake"
+    }
+]
